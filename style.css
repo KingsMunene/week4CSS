@@ -1,0 +1,38 @@
+header{
+    background-color: aqua;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: auto;
+}
+
+#introduction{
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+#skills{
+    border:0.1ch  dotted black;
+    padding: 0.5rem;
+    margin: 10px;
+    border-radius: 1rem;
+}
+#skills ul li{
+    margin-bottom: 10px;
+}
+
+#contact{
+    background-color: antiquewhite;
+    padding: 0.5rem;
+    margin: 10px;
+    border-radius: 1rem;
+}
+#footer{
+    color: white;
+    background-color: black;
+    padding: 2rem;
+    display: flex;
+    justify-content:center ;
+    border-radius: 1rem;
+}
